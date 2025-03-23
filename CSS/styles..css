@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	font-family:Montserrat;
+	src:url('Fonts/montBold.woff2') format('woff2'),
+		url('Fonts/montBold.woff')format('woff');
+	font-weight:bold; font-style:normal;
+	
+}
+@font-face{
+	font-family:Montserrat;
+	src:url('Fonts/montReg.woff2') format('woff2'),
+		url('Fonts/montReg.woff') format('woff');
+	font-weight:normal; font-style:normal;
+	
+}
+html{background-image:url('../Assets/WebBG_1.svg');background-size:cover;background-repeat:no-repeat;height:100%}
+
+#fullP{min-height:1080px}
+
+.CenterDiv{align-self:center;margin-left:26%}
+.CenterImg{align-self: center}
+
+
+#ConWU{font-family:'Montserrat', sans-serif;color:#F6D050;font-weight:normal;font-size:35pt;text-align:center}
+#ConWu strong{font-weight:bold}
+.MonR{font-family:'Montserrat', sans-serif;font-weight:normal;}
+
+#Desc{font-size:35pt;text-align:center; color:white; padding-bottom:100px;}
+
+#PriceB{background-color:#2A4D58;color:#4AD3B9;border:none;border-radius:20%;font-size:90pt;padding:20px}
+#ButtonCon{text-align:center}
+#PriceB:hover{background-color:#4C8CA0}
