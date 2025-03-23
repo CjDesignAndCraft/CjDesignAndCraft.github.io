@@ -2,12 +2,16 @@
 /* CSS Document */
 @font-face{
 	font-family:Montserrat;
-	src:url('Fonts\montBold.woff2') format('WOFF2');font-weight:bold
+	src:url('Fonts/montBold.woff2') format('woff2')
+		url('Font/montBold.woff')format('woff');
+	font-weight:bold
 	
 }
 @font-face{
 	font-family:Montserrat;
-	src:url('Fonts\montReg.woff2') format('WOFF2');font-weight:normal
+	src:url('Fonts/montReg.woff2') format('woff2')
+		url('Fonts\montReg.woff') format('woff');
+	font-weight:normal
 	
 }
 
