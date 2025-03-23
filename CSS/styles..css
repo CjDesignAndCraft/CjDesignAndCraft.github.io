@@ -3,7 +3,7 @@
 @font-face{
 	font-family:Montserrat;
 	src:url('Fonts/montBold.woff2') format('woff2')
-		url('Font/montBold.woff')format('woff');
+		url('Fonts/montBold.woff')format('woff');
 	font-weight:bold
 	
 }
