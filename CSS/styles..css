@@ -2,15 +2,15 @@
 /* CSS Document */
 @font-face{
 	font-family:Montserrat;
-	src:url('Fonts/montBold.woff2') format('woff2'),
-		url('Fonts/montBold.woff')format('woff');
+	src:url('../Fonts/montBold.woff2') format('woff2'),
+		url('../Fonts/montBold.woff')format('woff');
 	font-weight:bold; font-style:normal;
 	
 }
 @font-face{
 	font-family:Montserrat;
-	src:url('Fonts/montReg.woff2') format('woff2'),
-		url('Fonts/montReg.woff') format('woff');
+	src:url('../Fonts/montReg.woff2') format('woff2'),
+		url('../Fonts/montReg.woff') format('woff');
 	font-weight:normal; font-style:normal;
 	
 }
