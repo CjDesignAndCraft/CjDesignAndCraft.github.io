@@ -1,6 +1,6 @@
 // JavaScript Document
 
-functio checkPass(){
+function checkPass(){
 	var Dpass = document.getElementById('DomPass').value;
 	var DpassRR='dominic123';
 	var Dimg = document.getElementById('hiddenDom');
