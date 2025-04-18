@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1921.84 695.53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4ad3b9;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="961.84" y1="682.79" x2="961.84" y2="50.51" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a3e4f"/>
+      <stop offset="1" stop-color="#2a3e4f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Backgrpind">
+    <g>
+      <rect class="cls-1" x="1.84" width="177.65" height="166.62"/>
+      <rect class="cls-1" x="44.83" y="227.5" width="219.61" height="219.61" transform="translate(251.48 -20.9) rotate(39.76)"/>
+      <rect class="cls-1" x="68.16" y="514.29" width="150.52" height="150.52" transform="translate(703.93 357.27) rotate(81.16)"/>
+      <rect class="cls-1" x="1684.53" y="6.4" width="150.52" height="150.52" transform="translate(1995.91 -1664.13) rotate(95.05)"/>
+      <rect class="cls-1" x="1729.62" y="522.75" width="150.52" height="150.52" transform="translate(2118.53 -1277.32) rotate(81.16)"/>
+      <rect class="cls-1" x="1628.41" y="227.07" width="181.09" height="181.09" transform="translate(2452.5 -1269.08) rotate(104.34)"/>
+      <rect class="cls-2" x="1.84" width="1920" height="695.53"/>
+    </g>
+  </g>
+</svg>
